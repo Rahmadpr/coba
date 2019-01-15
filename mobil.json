@@ -1,0 +1,74 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "merek": "TOYOTA",
+      "type": "AVANZA",
+      "bbm": "BENSIN",
+	  "harga": "300000",
+      "tahun": "2018",
+      "seat": "7",
+      "foto": "http://www.toyota.astra.co.id/files/thumb/b249d6ae106b9b4/688/408/fit"
+    },
+    {
+      "id": 2,
+      "merek": "TOYOTA",
+      "type": "CALYA",
+      "bbm": "BENSIN",
+	  "harga": "250000",
+      "tahun": "2018",
+      "seat": "6",
+      "foto": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/cars/Toyota_Calya/Toyota_Calya_L_1.jpg"
+    },
+    {
+      "id": 3,
+      "merek": "TOYOTA",
+      "type": "AGYA",
+      "bbm": "BENSIN",
+	  "harga": "225000",
+      "tahun": "2018",
+      "seat": "5",
+      "foto": "http://www.toyota.astra.co.id/files/thumb/794491315bbac78/688/408/fit"
+    },
+    {
+      "id": 4,
+      "merek": "DAIHATSU",
+      "type": "XENIA",
+      "bbm": "BENSIN",
+	  "harga": "300000",
+      "tahun": "2018",
+      "seat": "7",
+      "foto": "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/cars/Daihatsu_Xenia/Daihatsu_Xenia_L_1.jpg"
+    },
+    {
+      "id": 5,
+      "merek": "DAIHATSU",
+      "type": "SIGRA",
+      "bbm": "BENSIN",
+	  "harga": "250000",
+      "tahun": "2018",
+      "seat": "6",
+      "foto": "https://daihatsu.co.id/images/revamp2017/product/sigra/variant/5.png"
+    },
+    {
+      "id": 6,
+      "merek": "DAIHATSU",
+      "type": "ALYA",
+      "bbm": "BENSIN",
+	  "harga": "225000",
+      "tahun": "2018",
+      "seat": "5",
+      "foto": "https://daihatsu.co.id/price-list/images/car/ayla.jpg"
+    },
+    {
+      "id": 7,
+      "merek": "TOYOTA",
+      "type": "KIJANG INNOVA",
+      "bbm": "SOLAR",
+	  "harga": "350000",
+      "tahun": "2018",
+      "seat": "7-8",
+      "foto": "http://www.toyota.astra.co.id/files/thumb/91523902bd45f1d/688/408/fit"
+    }
+  ]
+}
